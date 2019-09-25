@@ -1,0 +1,29 @@
+{
+  "name": "heroku-sample-ivyjoy",
+  "version": "1.0.0",
+  "description": "simple node app tabi tabi deployed to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiveejoy/heroku-sample-ivyjoy.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "ivy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiveejoy/heroku-sample-ivyjoy/issues"
+  },
+  "homepage": "https://github.com/aiveejoy/heroku-sample-ivyjoy#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
